@@ -1,0 +1,11 @@
+Shortcuts in visual studio
+
+create new branch for additional changes to the original code
+to access the command palette: shift + control + p 
+
+
+diff function is used to compare files side by side
+
+bottom left is where you can tell which branch you're in.
+
+select three dots top right and change to inline to diff in one window.
